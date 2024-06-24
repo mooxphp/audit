@@ -1,5 +1,4 @@
 <?php
-
 return [
     'single' => '審計',
     'plural' => '審計',
