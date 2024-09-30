@@ -17,7 +17,7 @@
         }
     ],
     "require": {
-        "moox/core": "^2.1.4",
+        "moox/core": "^2.1.6",
         "spatie/laravel-activitylog": "^4.0"
     },
     "autoload": {
